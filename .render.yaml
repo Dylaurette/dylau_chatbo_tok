@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: AfroChatbot
+    env: php
+    plan: free
+    buildCommand: ""
+    startCommand: apache2-foreground
+    autoDeploy: true
+    rootDir: .

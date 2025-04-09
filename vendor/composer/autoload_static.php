@@ -28,10 +28,6 @@ class ComposerStaticInit410caa1c0378c59531773f6fd7474e97
         array (
             'Nyholm\\Psr7\\' => 12,
         ),
-        'L' => 
-        array (
-            'Lolannworlf\\Finance\\' => 20,
-        ),
         'H' => 
         array (
             'Http\\Discovery\\' => 15,
@@ -39,6 +35,10 @@ class ComposerStaticInit410caa1c0378c59531773f6fd7474e97
         'G' => 
         array (
             'GeminiAPI\\' => 10,
+        ),
+        'D' => 
+        array (
+            'Dylaurette\\afroelegance\\' => 24,
         ),
     );
 
@@ -76,10 +76,6 @@ class ComposerStaticInit410caa1c0378c59531773f6fd7474e97
         array (
             0 => __DIR__ . '/..' . '/nyholm/psr7/src',
         ),
-        'Lolannworlf\\Finance\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'Http\\Discovery\\' => 
         array (
             0 => __DIR__ . '/..' . '/php-http/discovery/src',
@@ -87,6 +83,10 @@ class ComposerStaticInit410caa1c0378c59531773f6fd7474e97
         'GeminiAPI\\' => 
         array (
             0 => __DIR__ . '/..' . '/gemini-api-php/client/src',
+        ),
+        'Dylaurette\\afroelegance\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

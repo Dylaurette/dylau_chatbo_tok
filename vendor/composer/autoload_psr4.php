@@ -14,7 +14,7 @@ return array(
     'Psr\\Http\\Client\\' => array($vendorDir . '/psr/http-client/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
     'Nyholm\\Psr7\\' => array($vendorDir . '/nyholm/psr7/src'),
-    'Lolannworlf\\Finance\\' => array($baseDir . '/src'),
     'Http\\Discovery\\' => array($vendorDir . '/php-http/discovery/src'),
     'GeminiAPI\\' => array($vendorDir . '/gemini-api-php/client/src'),
+    'Dylaurette\\afroelegance\\' => array($baseDir . '/src'),
 );
