@@ -3,7 +3,7 @@
         'name' => 'afroelegance/conseil-capillaire',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a99ba6f51561d6b36e6cc51a38ba52436f21c126',
+        'reference' => '556b4b0fb56d79d970336b1c048943b1acd26ce6',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'afroelegance/conseil-capillaire' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a99ba6f51561d6b36e6cc51a38ba52436f21c126',
+            'reference' => '556b4b0fb56d79d970336b1c048943b1acd26ce6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
