@@ -1,9 +1,7 @@
 services:
   - type: web
-    name: AfroChatbot
+    name: afrochatbot
     env: php
     plan: free
-    buildCommand: "composer install"
-    startCommand: apache2-foreground
-    autoDeploy: true
-    rootDir: .
+    buildCommand: "apt-get update && apt-get install -y curl && curl -sS https://getcomposer.org/installer | php && mv composer.phar /usr/local/bin/composer && composer install"
+    startCommand: "apache2-foreground"
