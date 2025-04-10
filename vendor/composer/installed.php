@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'afroelegance/conseil-capillaire',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => 'f403cf8bbbf78497bddde4d3752c8816d699603a',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a99ba6f51561d6b36e6cc51a38ba52436f21c126',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'afroelegance/conseil-capillaire' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => 'f403cf8bbbf78497bddde4d3752c8816d699603a',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a99ba6f51561d6b36e6cc51a38ba52436f21c126',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
