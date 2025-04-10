@@ -3,7 +3,7 @@ services:
     name: AfroChatbot
     env: php
     plan: free
-    buildCommand: ""
+    buildCommand: "composer install"
     startCommand: apache2-foreground
     autoDeploy: true
     rootDir: .
