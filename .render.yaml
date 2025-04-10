@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: afrochatbot
-    env: php
-    plan: free
-    buildCommand: "composer install"
-    startCommand: "php -S 0.0.0.0:10000"
-    runtime: php-8.0  # Ajouter une version spécifique de PHP, si nécessaire
